@@ -1,0 +1,1 @@
+After downloading all corresponding third-party libraries, all algorithms can be run directly. The main algorithms are GA, QGA, FCFS, DQN, PH and other algorithms.
